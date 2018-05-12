@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30641#Notes-and-Queries-Number-232-April-8-1854--13-A-Medium-of-Inter-communication-for-Literary-Me_
 gutenberg_bookshelf: Notes and Queries
 gutenberg_issued: '2009-12-10'
 gutenberg_type: Text
